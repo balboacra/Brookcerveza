@@ -3,3 +3,13 @@
     margin: 0;
 }
 
+header {
+    display: flex;
+    background-color: blueviolet;
+    color: blue;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    display: flex;
+}
